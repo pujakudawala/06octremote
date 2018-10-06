@@ -1,5 +1,6 @@
 first line
 this is second line
 this is the third line we are adding
-we are addig this froma master, adding conflict
+we are adding this from master, adding conflict
+we are adding this to f1, creating a conflict
 
